@@ -1,0 +1,1 @@
+snt is a command line tool for sonata
